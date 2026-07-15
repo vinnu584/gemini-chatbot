@@ -67,4 +67,4 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
--   Hema Kalyan - [kalyanmurapaka274@gmail.com](mailto:kalyanmurapaka274@gmail.com)
+-  Vinaykumar Dachepalli (vinaykumard95@gmail.com )
